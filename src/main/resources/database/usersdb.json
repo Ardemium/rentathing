@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0",
+    "email": "2201@rentathing.nl",
+    "password": "123456"
+  },
+  {
+    "id": "1",
+    "email": "2202@rentathing.nl",
+    "password": "654321"
+  }
+]
